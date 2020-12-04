@@ -1,5 +1,11 @@
 @import "./_vars";
 
+html,
+body {
+  background: $background;
+  color: $font-color;
+}
+
 .text-theme {
   color: $theme;
 }
